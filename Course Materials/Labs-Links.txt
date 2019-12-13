@@ -1,0 +1,45 @@
+
+Lab-1: https://drive.google.com/file/d/14ooBeYLPu96M1kepIlQ3tlWmyp1dTIXt/view?usp=sharing
+
+       https://drive.google.com/file/d/1sYVjsx0JAuY4i6Uf8sEBvpljZNVxTnLg/view?usp=sharing
+
+Lab-2: https://drive.google.com/file/d/1sinn2eEBtvOYQbQmcfrnOIdVP1dx58ko/view?usp=sharing
+
+Lab-3: https://drive.google.com/open?id=1xylwcwXl2EvcmxIUbVFSBOcTA-06ouSD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+Extra links:
+http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/
+http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/
+https://github.com/apaar97/EPLpredictions/blob/master/Prediction.ipynb
+
+Predicting the IPL 2018 winners:
+https://github.com/MariamSulakian/Machine_Learning_Prediction
+
+
+https://github.com/anchorP34/Bayesian-Baseball-Results/blob/master/Bayesian%20Modeling%20with%20Machine%20Learning.ipynb
+
+https://github.com/anchorP34/Starbucks-Customer-Clusters
+
+https://github.com/anchorP34/Starbucks-Customer-Clusters/blob/master/Starbucks%20Capstone%20Project%20(1).ipynb
+
+
+
+
