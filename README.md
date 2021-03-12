@@ -2,4 +2,4 @@
 
 ## Final Year Project Ecosystem Architecture
 
-[] Final Group Project/Final Year Project Proposal/EcoSystem_Architecture.png
+[EcoSystem_Architecture.png] /Final Group Project/Final Year Project Proposal/EcoSystem_Architecture.png
